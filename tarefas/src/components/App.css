@@ -1,0 +1,14 @@
+.container {
+    min-height: 300px;
+    max-width: 400px;
+    min-width: 100px;
+    margin: 30px auto;
+    padding: 20px;
+    overflow: auto;
+    border: 2px solid chartreuse ;
+    border-radius: 5px;
+}
+
+Header {
+    color: chartreuse;
+}
